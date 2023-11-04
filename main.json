@@ -1,6 +1,11 @@
 {
     "items": [
         {
+            "type": "item",
+            "title": "[COLOR khaki]Clear Cache[/COLOR]",
+            "link": "clear_cache"
+        },
+        {
             "fanart": "https://i.ytimg.com/vi/HRo2m6RYJpI/maxresdefault.jpg", 
             "link": "https://www.ashleecadell.com/xyzstorelibrary/ACDC/'74%20Jailbreak/01%20-%20Jailbreak.mp3", 
             "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/dd/Ac-dc-74-jailbreak-cover.jpg", 
