@@ -8,53 +8,8 @@
             "type": "item"
         }, 
         {
-            "link": "clear_cache", 
-            "title": "[COLOR khaki]Clear Cache[/COLOR]", 
-            "type": "item"
-        }, 
-        {
-            "link": "message/POP UP MESSAGE TEXT", 
-            "title": "[COLOR khaki]Pop Up Message [COLOR white][I](Message from Link) [/COLOR][/I]", 
-            "type": "item"
-        }, 
-        {
-            "link": "message/http://narcacist.com/fourk/4k.xml", 
-            "title": "[COLOR khaki]Pop Up Message[COLOR white][I] (Message from URL) [/COLOR][/I]", 
-            "type": "item"
-        }, 
-        {
-            "link": "message/file://search_info.xml", 
-            "title": "[COLOR khaki]Pop Up Message[COLOR white][I] (Message from Local File) [/COLOR][/I]", 
-            "type": "item"
-        }, 
-        {
             "link": "file://basics.json", 
             "title": "[COLOR skyblue]Various Addon Methods[/COLOR]", 
-            "type": "dir"
-        }, 
-        {
-            "link": "file://colors.json", 
-            "title": "[COLOR skyblue]Kodi Colours[/COLOR]", 
-            "type": "dir"
-        }, 
-        {
-            "link": "plugin://plugin.video.youtube/playlist/PLIhM97erOwwNrksoDBN1iRIAFMsvn4cTq/", 
-            "title": "[COLOR goldenrod]YouTube Playlist [COLOR white][I](Plugin Method) [/COLOR][/I]", 
-            "type": "unknown"
-        }, 
-        {
-            "link": "file://scraper_list.json", 
-            "title": "[COLOR khaki]Scraper Methods[/COLOR]", 
-            "type": "dir"
-        }, 
-        {
-            "link": "file://scraper_list2.json", 
-            "title": "[COLOR khaki]Single Item TMDB Examples[/COLOR]", 
-            "type": "dir"
-        }, 
-        {
-            "link": "file://trakt.json", 
-            "title": "[COLOR khaki]Trakt Examples[/COLOR]", 
             "type": "dir"
         }
     ]
