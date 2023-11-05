@@ -1,16 +1,16 @@
 {
     "items": [
         {
-            "fanart": "URL", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/Metalssubmenu.json", 
-            "thumbnail": "URL", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Metals%20Audio%20logo.png", 
             "title": "Metals Section", 
             "type": "item"
         },
         {
-            "fanart": "URL", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png", 
             "link": "https://www.ashleecadell.com/xyzstorelibrary/ACDC/'74%20Jailbreak/01%20-%20Jailbreak.mp3", 
-            "thumbnail": "URL", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Dudes%20Sounds%20logo.png", 
             "title": "Dudes Section Coming Soon", 
             "type": "item"
         },
