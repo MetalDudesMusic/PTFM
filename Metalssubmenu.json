@@ -6,15 +6,13 @@
             "thumbnail": "", 
             "title": "[COLORlime]-= [COLORyellow]Metals Section [COLORlime]=-[/COLOR]", 
             "type": "item"
-        }, 
+        },
         {
             "fanart": "", 
-            "link": [
-                "( Drivers Press Conference )"
-            ], 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Metal/main/MetMusVids.json", 
             "thumbnail": "", 
-            "title": "[COLORcyan]Music [COLORyellow] Videos [/COLOR]", 
-            "type": "item"
+            "title": "Music Videos", 
+            "type": "dir"
         }
     ]
 }
