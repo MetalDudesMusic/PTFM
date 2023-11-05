@@ -1,0 +1,23 @@
+{
+    "items": [
+        {
+            "fanart": "URL", 
+            "link": "link", 
+            "thumbnail": "URL", 
+            "title": "[I][COLORyellow]METALS[COLORred] MENU [/COLOR][/I]", 
+            "type": "item"
+        }, 
+        {
+            "fanart": "URL", 
+            "link": [
+                "URL( Drivers Press Conference )",
+                "URL( Qualify RD )", 
+                "URL( Teds Qualify Notebook RD )", 
+                "URL( Pre Shootout RD )"
+            ], 
+            "thumbnail": "URL", 
+            "title": "[COLORcyan]Music [COLORyellow] Videos [/COLOR]", 
+            "type": "item"
+        }
+    ]
+}
