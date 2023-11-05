@@ -1,30 +1,23 @@
 {
     "items": [
         {
-            "fanart": "https://i.ytimg.com/vi/HRo2m6RYJpI/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/fanart.png", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/Metalssubmenu.json", 
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/dd/Ac-dc-74-jailbreak-cover.jpg", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Metals%20Audio%20logo.png", 
             "title": "Metals Section", 
             "type": "item"
         },
         {
-            "fanart": "https://i.ytimg.com/vi/HRo2m6RYJpI/maxresdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/fanart.png", 
             "link": "https://www.ashleecadell.com/xyzstorelibrary/ACDC/'74%20Jailbreak/01%20-%20Jailbreak.mp3", 
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/dd/Ac-dc-74-jailbreak-cover.jpg", 
-            "title": "Dudes Section", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Dudes%20Sounds%20logo.png", 
+            "title": "Dudes Section Coming Soon", 
             "type": "item"
         },
         {
             "type": "item",
             "title": "[COLOR khaki]Clear Cache[/COLOR]",
             "link": "clear_cache"
-        },          
-        {
-            "type": "plugin", 
-            "title": "[COLOR khaki]YouTube Playlist 60s 70s 80s 90s live concert[/COLOR][/I]", 
-            "link": "plugin.video.youtube/playlist/PLIhM97erOwwNrksoDBN1iRIAFMsvn4cTq/", 
-            "thumbnail": "", 
-            "fanart": ""
         }
     ]
 }
