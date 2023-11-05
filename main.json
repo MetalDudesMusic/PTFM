@@ -5,7 +5,7 @@
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/Metalssubmenu.json", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Metals%20Audio%20logo.png", 
             "title": "Metals Section", 
-            "type": "item"
+            "type": "dir"
         },
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png", 
