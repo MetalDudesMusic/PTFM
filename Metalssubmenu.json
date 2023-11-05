@@ -1,18 +1,18 @@
 {
     "items": [
         {
-            "fanart": "URL", 
+            "fanart": "", 
             "link": "link", 
-            "thumbnail": "URL", 
-            "title": "[I][COLORyellow]METALS[COLORred] MENU [/COLOR][/I]", 
+            "thumbnail": "", 
+            "title": "METALS MENU", 
             "type": "item"
         }, 
         {
-            "fanart": "URL", 
+            "fanart": "", 
             "link": [
-                "URL( Drivers Press Conference )"
+                "( Drivers Press Conference )"
             ], 
-            "thumbnail": "URL", 
+            "thumbnail": "", 
             "title": "[COLORcyan]Music [COLORyellow] Videos [/COLOR]", 
             "type": "item"
         }
