@@ -15,6 +15,13 @@
             "type": "dir"
         },
         {
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/Full%20Concerts%201080p.json", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Dudes%20Sounds%20logo.png", 
+            "title": "Full Concerts 1080p", 
+            "type": "dir"
+        },
+        {
             "type": "item",
             "title": "[COLOR khaki]Clear Cache[/COLOR]",
             "link": "clear_cache"
