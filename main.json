@@ -8,13 +8,6 @@
             "type": "dir"
         },
         {
-            "type": "plugin", 
-            "title": "4K Concerts 2", 
-            "link": "plugin.video.youtube/playlist/PLL_UCi3tgYwQddQqOlMsX6ZeubyQtGtcc/", 
-            "thumbnail": "", 
-            "fanart": ""
-        },
-        {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/Full%20Concerts%204K%20UHD.xml", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Dudes%20Sounds%20logo.png", 
