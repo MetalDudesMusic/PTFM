@@ -22,13 +22,6 @@
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
-            "link": "http://www.ashleecadell.com/xyzstorelibrary/", 
-            "thumbnail": "", 
-            "title": "Music with Visualizer", 
-            "type": "dir"
-        },
-        {
             "type": "item",
             "title": "[COLOR khaki]Clear Cache[/COLOR]",
             "link": "clear_cache"
