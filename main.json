@@ -22,6 +22,20 @@
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
+            "type": "dir", 
+            "title": "test 1", 
+            "link": "https://www.ashleecadell.com/xyzstorelibrary/", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "item", 
+            "title": "test 2", 
+            "link": "https://www.ashleecadell.com/xyzstorelibrary/ACDC/'74%20Jailbreak/01%20-%20Jailbreak.mp3", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
             "type": "item",
             "title": "[COLOR khaki]Clear Cache[/COLOR]",
             "link": "clear_cache"
