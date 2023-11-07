@@ -8,23 +8,16 @@
             "type": "dir"
         },
         {
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png", 
-            "link": "https://github.com/MetalDudesMusic/Dude/blob/main/Full%20Concerts%204K%20UHD%20(As%20there%20Labelled).xml", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Dudes%20Sounds%20logo.png", 
-            "title": "4K Concerts Testing", 
-            "type": "dir"
-        },
-        {
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/Full%20Concerts%201080p.xml", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Dudes%20Sounds%20logo.png", 
-            "title": "Full Concerts 1080p Not Working", 
-            "type": "dir"
-        },
-        {
             "type": "plugin", 
             "title": "4K Concerts Playlist", 
             "link": "plugin.video.youtube/playlist/PLL_UCi3tgYwQddQqOlMsX6ZeubyQtGtcc", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "HD Concerts playlist", 
+            "link": "plugin.video.youtube/playlist/PLgTorTVCekZhQesUUZRLh_FKEZjaovpJi", 
             "thumbnail": "", 
             "fanart": ""
         },
