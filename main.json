@@ -20,7 +20,14 @@
             "link": "plugin.video.youtube/playlist/PLgTorTVCekZhQesUUZRLh_FKEZjaovpJi", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%201080p%20logo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },        
+        },           
+        {
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/MusicVideos.json", 
+            "thumbnail": "", 
+            "title": "Music Videos", 
+            "type": "dir"
+        },     
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musicmovies.json", 
