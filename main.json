@@ -34,13 +34,6 @@
             "thumbnail": "", 
             "title": "Music Movies", 
             "type": "dir"
-        },     
-        {
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/BONUSOLDIES", 
-            "thumbnail": "", 
-            "title": "Bonus Old Movies", 
-            "type": "dir"
         },
         {
             "type": "item",
