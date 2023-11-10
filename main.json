@@ -34,7 +34,14 @@
             "thumbnail": "", 
             "title": "Music Movies", 
             "type": "dir"
-        },
+        }, 
+        {
+            "type": "dir", 
+            "title": "Bonus for the Oldies", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/BONUSOLDIES", 
+            "thumbnail": "", 
+            "fanart": ""
+        },  
         {
             "type": "item",
             "title": "[COLOR khaki]Clear Cache[/COLOR]",
