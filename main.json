@@ -44,8 +44,8 @@
         },  
         {
             "type": "dir", 
-            "title": "Test", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/Full%20Concerts%204K%20UHD.json", 
+            "title": "Test xml", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/Full%20Concerts%204K%20UHD.xml", 
             "thumbnail": "", 
             "fanart": ""
         },
