@@ -96,6 +96,13 @@
             "title": "[COLOR khaki]Clear Cache[/COLOR]",
             "link": "clear_cache",
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/clearcachelogo.png?raw=true"
+        },  
+        {
+            "type": "dir", 
+            "title": "Test vid collection", 
+            "link": "https://www.youtube.com/@HollywoodEnglishCollection/videos", 
+            "thumbnail": "", 
+            "fanart": ""
         }
     ]
 }
