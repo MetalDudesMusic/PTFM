@@ -45,7 +45,7 @@
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musicmovies.json", 
-            "thumbnail": "", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/musicmovieslogo.png?raw=true", 
             "title": "Music Movies YT", 
             "type": "dir"
         }, 
@@ -67,7 +67,7 @@
             "type": "item",
             "title": "[COLOR khaki]Clear Cache[/COLOR]",
             "link": "clear_cache",
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/BFTOldieslogo.png?raw=true"
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/clearcachelogo.png?raw=true"
         }
     ]
 }
