@@ -50,9 +50,9 @@
             "fanart": ""
         },  
         {
-            "type": "item", 
-            "title": "Test mp3", 
-            "link": "https://www.ashleecadell.com/xyzstorelibrary/ACDC/'74%20Jailbreak/01%20-%20Jailbreak.mp3", 
+            "type": "dir", 
+            "title": "Test mp3 dir", 
+            "link": "https://www.ashleecadell.com/xyzstorelibrary/ACDC/'74%20Jailbreak/", 
             "thumbnail": "", 
             "fanart": ""
         },
