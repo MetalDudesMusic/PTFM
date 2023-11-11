@@ -98,9 +98,9 @@
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/clearcachelogo.png?raw=true"
         },  
         {
-            "type": "dir", 
+            "type": "plugin", 
             "title": "Test vid collection", 
-            "link": "https://www.youtube.com/@HollywoodEnglishCollection/videos", 
+            "link": "plugin.video.youtube.com/@HollywoodEnglishCollection/videos", 
             "thumbnail": "", 
             "fanart": ""
         }
