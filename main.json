@@ -48,7 +48,14 @@
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/musicmovieslogo.png?raw=true", 
             "title": "Music Movies YT", 
             "type": "dir"
-        }, 
+        },   
+        {
+            "type": "dir", 
+            "title": "Youtube Full Movies", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/YTMovies", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
         {
             "type": "dir", 
             "title": "Bonus for the Oldies YT", 
