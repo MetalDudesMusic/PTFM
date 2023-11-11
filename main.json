@@ -34,7 +34,14 @@
             "thumbnail": "", 
             "title": "Music Videos YT", 
             "type": "dir"
-        },     
+        },       
+        {
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/Remix", 
+            "thumbnail": "", 
+            "title": "Music Video Mashups YT", 
+            "type": "dir"
+        },   
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musicmovies.json", 
@@ -51,7 +58,7 @@
         },  
         {
             "type": "dir", 
-            "title": "Test mp3 dir", 
+            "title": "Test YT xml 4k concert", 
             "link": "https://www.ashleecadell.com/xyzstorelibrary/ACDC/'74%20Jailbreak/", 
             "thumbnail": "", 
             "fanart": ""
