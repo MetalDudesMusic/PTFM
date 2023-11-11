@@ -62,6 +62,27 @@
             "link": "https://www.ashleecadell.com/xyzstorelibrary/ACDC/'74%20Jailbreak/01%20-%20Jailbreak.mp3", 
             "thumbnail": "", 
             "fanart": ""
+        },  
+        {
+            "type": "dir", 
+            "title": "Test radio", 
+            "link": "https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Radio.xml", 
+            "thumbnail": "", 
+            "fanart": ""
+        },  
+        {
+            "type": "dir", 
+            "title": "Test all things concerts", 
+            "link": "https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/all%20things%20concert.xml", 
+            "thumbnail": "", 
+            "fanart": ""
+        },  
+        {
+            "type": "dir", 
+            "title": "Test music 247", 
+            "link": "https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/music%2024-7.xml", 
+            "thumbnail": "", 
+            "fanart": ""
         },
         {
             "type": "item",
