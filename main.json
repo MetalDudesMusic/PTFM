@@ -6,7 +6,14 @@
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Metals%20Audio%20logo.png?raw=true", 
             "title": "[I][B][COLORlime] Metals [COLORyellow] Section [/COLOR][/I][/B]", 
             "type": "dir"
-        },
+        },     
+        {
+            "type": "dir", 
+            "title": "One Click Concerts", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/ConcertsOneClick", 
+            "thumbnail": "", 
+            "fanart": ""
+        }, 
         {
             "type": "plugin", 
             "title": "4K Concerts Playlist YT", 
@@ -21,13 +28,6 @@
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%201080p%20logo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },     
-        {
-            "type": "dir", 
-            "title": "One Click Concerts", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/ConcertsOneClick", 
-            "thumbnail": "", 
-            "fanart": ""
-        },      
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/MusicVideos.json", 
