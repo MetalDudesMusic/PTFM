@@ -11,7 +11,7 @@
             "type": "dir", 
             "title": "One Click Concerts", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/ConcertsOneClick", 
-            "thumbnail": "", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/oneclickconcertslogo.png?raw=true", 
             "fanart": ""
         }, 
         {
@@ -31,14 +31,14 @@
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/MusicVideos.json", 
-            "thumbnail": "", 
-            "title": "Music Videos YT", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/artistsmusicvideoslogo.png?raw=true", 
+            "title": "Artists Music Videos YT", 
             "type": "dir"
         },       
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/Remix", 
-            "thumbnail": "", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/videomashupslogo.png?raw=true", 
             "title": "Mashups YT", 
             "type": "dir"
         },   
@@ -53,7 +53,7 @@
             "type": "dir", 
             "title": "Bonus for the Oldies YT", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/BONUSOLDIES", 
-            "thumbnail": "", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/BFTOldieslogo.png?raw=true", 
             "fanart": ""
         },  
         {
@@ -66,7 +66,8 @@
         {
             "type": "item",
             "title": "[COLOR khaki]Clear Cache[/COLOR]",
-            "link": "clear_cache"
+            "link": "clear_cache",
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/BFTOldieslogo.png?raw=true"
         }
     ]
 }
