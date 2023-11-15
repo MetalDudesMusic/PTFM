@@ -13,7 +13,14 @@
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/ConcertsOneClick", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/oneclickconcertslogo.png?raw=true", 
             "fanart": ""
-        }, 
+        },   
+        {
+            "type": "dir", 
+            "title": "Test all things concerts", 
+            "link": "https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/all%20things%20concert.xml", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
         {
             "type": "plugin", 
             "title": "4K Concerts Playlist YT", 
@@ -72,13 +79,6 @@
             "type": "dir", 
             "title": "Test radio", 
             "link": "https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Radio.xml", 
-            "thumbnail": "", 
-            "fanart": ""
-        },  
-        {
-            "type": "dir", 
-            "title": "Test all things concerts", 
-            "link": "https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/all%20things%20concert.xml", 
             "thumbnail": "", 
             "fanart": ""
         },  
