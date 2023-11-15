@@ -62,13 +62,11 @@
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/BONUSOLDIES", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/BFTOldieslogo.png?raw=true", 
             "fanart": ""
-        },  
+        },
         {
-            "type": "dir", 
-            "title": "Test", 
-            "link": "https://www.ashleecadell.com/xyzstorelibrary/ACDC/'74%20Jailbreak/01%20-%20Jailbreak.mp3", 
-            "thumbnail": "", 
-            "fanart": ""
+            "type": "dir",
+            "title": "[COLOR goldenrod]M3U List[/COLOR]",
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/3doorsdown.m3u"
         },  
         {
             "type": "dir", 
