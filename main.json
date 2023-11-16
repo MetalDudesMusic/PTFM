@@ -41,7 +41,14 @@
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/artistsmusicvideoslogo.png?raw=true", 
             "title": "Artists Music Videos YT", 
             "type": "dir"
-        },       
+        },     
+        {
+            "type": "dir", 
+            "title": "Years Music Videos YT", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/60s", 
+            "thumbnail": "", 
+            "fanart": ""
+        },     
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/Remix", 
