@@ -81,7 +81,14 @@
             "type": "dir",
             "title": "Things to Tune Out (audio Only)",
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/Thingstowatch"
-        },  
+        },   
+        {
+            "type": "dir", 
+            "title": "Youtube Radio 247", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/YTRadio/main", 
+            "thumbnail": "", 
+            "fanart": ""
+        }, 
         {
             "type": "dir", 
             "title": "Test radio", 
