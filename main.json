@@ -98,16 +98,10 @@
         },  
         {
             "type": "dir", 
-            "title": "Test ashlee", 
-            "link": "URL", 
+            "title": "Test youtube music playlist", 
+            "link": "https://music.youtube.com/playlist?list=RDCLAK5uy_mVRuj5egfh21e-pXyA3ymx_0p4Xlg-c0I", 
             "thumbnail": "", 
             "fanart": ""
-        },
-        {
-            "type": "item",
-            "title": "[COLOR khaki]Clear Cache[/COLOR]",
-            "link": "clear_cache",
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/clearcachelogo.png?raw=true"
         }
     ]
 }
