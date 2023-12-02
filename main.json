@@ -48,6 +48,13 @@
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/years", 
             "thumbnail": "", 
             "fanart": ""
+        },     
+        {
+            "type": "dir", 
+            "title": "Various Music Videos Playlist YT", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/VariousMVplaylists", 
+            "thumbnail": "", 
+            "fanart": ""
         },
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
