@@ -97,9 +97,9 @@
             "fanart": ""
         },  
         {
-            "type": "dir", 
-            "title": "Test YT world playlist", 
-            "link": "https://www.youtube.com/playlist?list=PL-ntK3MOBOs4jjwfUk-NZxjt9V-gu9Xv0", 
+            "type": "item", 
+            "title": "Test YT world playlist magnet", 
+            "link": "magnet:?xt=urn:btih:E062111CDD8459D800E3E340CB0AB1FD1B500DA3&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=Blur%20%E2%80%A2%20In%20Concert%20(BBC%20Radio%202)%20%5B2023%2C%20Alternative%2C%20Britpop%2C%20Rock%2C%20WEB-DL%2C%201080p%5D", 
             "thumbnail": "", 
             "fanart": ""
         }, 
