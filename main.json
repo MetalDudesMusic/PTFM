@@ -98,8 +98,8 @@
         },  
         {
             "type": "dir", 
-            "title": "Test youtube music playlist", 
-            "link": "https://music.youtube.com/playlist?list=RDCLAK5uy_mVRuj5egfh21e-pXyA3ymx_0p4Xlg-c0I", 
+            "title": "Test concert magnet", 
+            "link": "magnet:?xt=urn:btih:E4C5D9AFD8FBFB1BA093B0AC39F4E8E1ECD45043&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=Metallica%20Presents%3A%20The%20Helping%20Hands%20Concert%20(Full%20Show)%5B2022%2C%20Thrash%20Metal%2C%20WEB-DL%2C%201080p%5D", 
             "thumbnail": "", 
             "fanart": ""
         }
