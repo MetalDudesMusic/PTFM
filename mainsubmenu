@@ -1,12 +1,12 @@
 {
-    "items": [     
+    "items": [       
         {
             "type": "dir", 
             "title": "One Click Concerts", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/ConcertsOneClick", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/oneclickconcertslogo.png?raw=true", 
             "fanart": ""
-        }, 
+        },   
         {
             "type": "dir", 
             "title": "Test all things concerts", 
