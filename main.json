@@ -13,35 +13,14 @@
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/concerts", 
             "thumbnail": "", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },     
-        {
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/MusicVideos.json", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/artistsmusicvideoslogo.png?raw=true", 
-            "title": "Artists Music Videos YT", 
-            "type": "dir"
-        },     
+        },             
         {
             "type": "dir", 
-            "title": "Years Music Videos YT", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/years", 
+            "title": "Music Videos Youtube & Free One Clicks", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/musicvideos", 
             "thumbnail": "", 
-            "fanart": ""
-        },     
-        {
-            "type": "dir", 
-            "title": "Various Music Videos Playlist YT", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/VariousMVplaylists", 
-            "thumbnail": "", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
-        {
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/Remix", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/videomashupslogo.png?raw=true", 
-            "title": "Mashups YT", 
-            "type": "dir"
-        },   
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musicmovies.json", 
