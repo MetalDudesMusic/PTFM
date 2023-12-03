@@ -27,20 +27,13 @@
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/musicmovieslogo.png?raw=true", 
             "title": "Music Movies YT", 
             "type": "dir"
-        },   
+        },             
         {
             "type": "dir", 
-            "title": "Youtube Full Movies", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/YTMovies", 
+            "title": "Bonus Movies Youtube & Free One Clicks", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/bonusmovies", 
             "thumbnail": "", 
-            "fanart": ""
-        },
-        {
-            "type": "dir", 
-            "title": "Bonus for the Oldies YT", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/BONUSOLDIES", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/BFTOldieslogo.png?raw=true", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "dir",
@@ -49,21 +42,21 @@
         }, 
         {
             "type": "dir", 
-            "title": "Test radio", 
+            "title": "Radio", 
             "link": "https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Radio.xml", 
             "thumbnail": "", 
             "fanart": ""
         },  
         {
             "type": "dir", 
-            "title": "Test music 247", 
+            "title": "Music 247", 
             "link": "https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/music%2024-7.xml", 
             "thumbnail": "", 
             "fanart": ""
         },  
         {
             "type": "item", 
-            "title": "Test concert magnet", 
+            "title": "TEST", 
             "link": "magnet:?xt=urn:btih:E062111CDD8459D800E3E340CB0AB1FD1B500DA3&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=Blur%20%E2%80%A2%20In%20Concert%20(BBC%20Radio%202)%20%5B2023%2C%20Alternative%2C%20Britpop%2C%20Rock%2C%20WEB-DL%2C%201080p%5D", 
             "thumbnail": "", 
             "fanart": ""
