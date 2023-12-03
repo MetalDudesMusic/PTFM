@@ -1,18 +1,32 @@
 {
-    "items": [
+    "items": [     
         {
-            "fanart": "", 
+            "type": "dir", 
+            "title": "One Click Concerts", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/ConcertsOneClick", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/oneclickconcertslogo.png?raw=true", 
-            "title": "One Click Concerts", 
-            "type": "dir"
+            "fanart": ""
+        }, 
+        {
+            "type": "dir", 
+            "title": "Test all things concerts", 
+            "link": "https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/all%20things%20concert.xml", 
+            "thumbnail": "", 
+            "fanart": ""
         },
         {
-            "fanart": "", 
-            "link": "", 
-            "thumbnail": "", 
-            "title": "Music Videos", 
-            "type": "dir"
+            "type": "plugin", 
+            "title": "4K Concerts Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PLL_UCi3tgYwQddQqOlMsX6ZeubyQtGtcc", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "HD Concerts Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PLgTorTVCekZhQesUUZRLh_FKEZjaovpJi", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%201080p%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
 }
