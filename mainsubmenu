@@ -5,14 +5,14 @@
             "title": "One Click Concerts", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/ConcertsOneClick", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/oneclickconcertslogo.png?raw=true", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },   
         {
             "type": "dir", 
             "title": "Test all things concerts", 
             "link": "https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/all%20things%20concert.xml", 
             "thumbnail": "", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "plugin", 
