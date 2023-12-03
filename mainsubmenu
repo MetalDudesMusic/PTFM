@@ -1,0 +1,18 @@
+{
+    "items": [
+        {
+            "fanart": "", 
+            "link": "", 
+            "thumbnail": "", 
+            "title": "", 
+            "type": "item"
+        },
+        {
+            "fanart": "", 
+            "link": "", 
+            "thumbnail": "", 
+            "title": "Music Videos", 
+            "type": "dir"
+        }
+    ]
+}
