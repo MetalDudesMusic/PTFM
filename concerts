@@ -9,9 +9,9 @@
         },   
         {
             "type": "dir", 
-            "title": "Test all things concerts", 
+            "title": "All things concerts", 
             "link": "https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/all%20things%20concert.xml", 
-            "thumbnail": "", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/allthingsconcertslogo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
