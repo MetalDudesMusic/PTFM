@@ -11,14 +11,14 @@
             "type": "dir", 
             "title": "CONCERTS Youtube & Free One Clicks", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/concerts", 
-            "thumbnail": "", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },             
         {
             "type": "dir", 
             "title": "Music Videos Youtube & Free One Clicks", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/musicvideos", 
-            "thumbnail": "", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/musicvideologo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
@@ -32,39 +32,43 @@
             "type": "dir", 
             "title": "Bonus Movies Youtube & Free One Clicks", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/bonusmovies", 
-            "thumbnail": "", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Bonus%20Movies%20logo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "dir",
             "title": "Things to Tune Out (audio Only)",
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/Thingstowatch"
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/Thingstowatch", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/things%20to%20tune%20out%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }, 
         {
             "type": "dir", 
             "title": "Radio", 
             "link": "https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Radio.xml", 
-            "thumbnail": "", 
-            "fanart": ""
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/radio%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },  
         {
             "type": "dir", 
             "title": "Music 247", 
             "link": "https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/music%2024-7.xml", 
-            "thumbnail": "", 
-            "fanart": ""
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/music247%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },  
         {
             "type": "item", 
             "title": "TEST", 
             "link": "magnet:?xt=urn:btih:E062111CDD8459D800E3E340CB0AB1FD1B500DA3&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=Blur%20%E2%80%A2%20In%20Concert%20(BBC%20Radio%202)%20%5B2023%2C%20Alternative%2C%20Britpop%2C%20Rock%2C%20WEB-DL%2C%201080p%5D", 
-            "thumbnail": "", 
-            "fanart": ""
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }, 
         {
             "type": "item",
             "title": "[COLOR khaki]Clear Cache[/COLOR]",
-            "link": "clear_cache"
+            "link": "clear_cache",
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/clearcachelogo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
 }
