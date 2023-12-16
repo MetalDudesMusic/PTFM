@@ -2,6 +2,13 @@
     "items": [
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/XmasSpecial", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/merry-juana-stoned-santa-claus-joint-cannabis-sticker-removebg-preview.png?raw=true", 
+            "title": "Merry Xmas", 
+            "type": "dir"
+        },
+        {
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/Metalssubmenu.json", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Metals%20Audio%20logo.png?raw=true", 
             "title": "[I][B][COLORlime] The Music One Clicks [COLORyellow] Of One Clicks. LOL [/COLOR][/I][/B]", 
