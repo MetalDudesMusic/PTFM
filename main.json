@@ -76,6 +76,13 @@
             "link": "https://raw.githubusercontent.com/mu51c/ptfm/main/metalvids.xml", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "test lister", 
+            "link": "plugin.video.youtube/playlist/RDCLAK5uy_lFlKms7Zm3D734_wJr1p7ErNkAivAHGVs", 
+            "thumbnail": "", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }, 
         {
             "type": "item",
