@@ -17,9 +17,9 @@
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/superlions", 
-            "thumbnail": "", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20logo.png?raw=true", 
             "title": "[I][B][COLORlime] Music from [COLORyellow] the legend himself. LOL [/COLOR][/I][/B]", 
-            "type": "item"
+            "type": "dir"
         },       
         {
             "type": "dir", 
