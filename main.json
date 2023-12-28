@@ -20,7 +20,14 @@
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20logo.png?raw=true", 
             "title": "[I][B][COLORlime] Music from [COLORyellow] the legend himself. LOL [/COLOR][/I][/B]", 
             "type": "dir"
-        },       
+        },    
+        {
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/superlions", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20logo.png?raw=true", 
+            "title": "[I][B][COLORlime] MR I [COLORyellow] Is in Da House. LOL [/COLOR][/I][/B]", 
+            "type": "dir"
+        },     
         {
             "type": "dir", 
             "title": "CONCERTS Youtube & Free One Clicks", 
