@@ -2,16 +2,23 @@
     "items": [
         {
             "fanart": "", 
-            "link": "", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Metal/main/Metal-Vids.json", 
             "thumbnail": "", 
-            "title": "[COLORlime]-= [COLORyellow]Metals Section [COLORlime]=-[/COLOR]", 
-            "type": "item"
+            "title": "Metal Vids", 
+            "type": "dir"
         },
         {
             "fanart": "", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Metal/main/MetMusVids.json", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Metal/main/Music-Choice.json", 
             "thumbnail": "", 
-            "title": "Music Videos", 
+            "title": "Music Choice", 
+            "type": "dir"
+        },
+        {
+            "fanart": "", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Metal/main/Music-Vids-Dance.json", 
+            "thumbnail": "", 
+            "title": "Musics Vids Dance", 
             "type": "dir"
         }
     ]
