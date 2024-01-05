@@ -2,7 +2,7 @@
     "items": [     
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/MusicVideos.json", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/Artists", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/artistsmusicvideoslogo.png?raw=true", 
             "title": "Artists Music Videos YT", 
             "type": "dir"
