@@ -2,7 +2,7 @@
     "items": [    
         {
             "type": "dir", 
-            "title": "CONCERTS", 
+            "title": "Concerts", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/concerts", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
