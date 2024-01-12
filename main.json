@@ -1,46 +1,39 @@
 {
-    "items": [
-        {
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/XmasSpecial", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/merry-juana-stoned-santa-claus-joint-cannabis-sticker-removebg-preview.png?raw=true", 
-            "title": "Merry Xmas", 
-            "type": "dir"
-        },
-        {
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/Metalssubmenu.json", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Metals%20Audio%20logo.png?raw=true", 
-            "title": "[I][B][COLORlime] The Music One Clicks [COLORyellow] Of One Clicks. LOL [/COLOR][/I][/B]", 
-            "type": "dir"
-        },  
-        {
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/superlions", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20logo.png?raw=true", 
-            "title": "[I][B][COLORlime] Music from [COLORyellow] the legend himself. LOL [/COLOR][/I][/B]", 
-            "type": "dir"
-        },    
-        {
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/vroom/main/Vroom", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20logo.png?raw=true", 
-            "title": "[I][B][COLORlime] MR I [COLORyellow] Is in Da House. LOL [/COLOR][/I][/B]", 
-            "type": "dir"
-        },     
+    "items": [    
         {
             "type": "dir", 
             "title": "CONCERTS Youtube & Free One Clicks", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/concerts", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },             
+        },     
+        {
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/Artists", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/artistsmusicvideoslogo.png?raw=true", 
+            "title": "Artists Music Videos YT", 
+            "type": "dir"
+        },     
         {
             "type": "dir", 
-            "title": "Music Videos Youtube & Free One Clicks", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/musicvideos", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/musicvideologo.png?raw=true", 
+            "title": "Years Music Videos YT", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/years", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/yearsmusicvideoslogo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },       
+        {
+            "type": "dir", 
+            "title": "Various Music Videos Playlist YT", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/VariousMVplaylists", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/variousmusicvideoslogo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/Remix", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/videomashupslogo.png?raw=true", 
+            "title": "Mashups YT", 
+            "type": "dir"
         },
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
@@ -83,6 +76,6 @@
             "link": "clear_cache",
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/clearcachelogo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        }
+        },       
     ]
 }
