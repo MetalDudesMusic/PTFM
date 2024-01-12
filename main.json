@@ -2,7 +2,7 @@
     "items": [    
         {
             "type": "dir", 
-            "title": "CONCERTS Youtube & Free One Clicks", 
+            "title": "CONCERTS", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/concerts", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
@@ -11,12 +11,12 @@
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/Artists", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/artistsmusicvideoslogo.png?raw=true", 
-            "title": "Artists Music Videos YT", 
+            "title": "Artists", 
             "type": "dir"
         },     
         {
             "type": "dir", 
-            "title": "Years Music Videos YT", 
+            "title": "Years", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/years", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/yearsmusicvideoslogo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
