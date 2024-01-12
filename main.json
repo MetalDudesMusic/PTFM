@@ -23,35 +23,35 @@
         },       
         {
             "type": "dir", 
-            "title": "Various Music Videos Playlist YT", 
+            "title": "Various One Clicks", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/VariousMVplaylists", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/variousmusicvideoslogo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/Remix", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/variousoneclicks", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/videomashupslogo.png?raw=true", 
-            "title": "One Click Collections YT", 
+            "title": "One Click Collections", 
             "type": "dir"
         },
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/Remix", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/videomashupslogo.png?raw=true", 
-            "title": "Mashups YT", 
+            "title": "Mashups", 
             "type": "dir"
         },
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musicmovies.json", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/musicmovieslogo.png?raw=true", 
-            "title": "Music Movies Youtube & Free One Clicks", 
+            "title": "Music Movies", 
             "type": "dir"
         },             
         {
             "type": "dir", 
-            "title": "Bonus Movies Youtube & Free One Clicks", 
+            "title": "Bonus Movies", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/bonusmovies", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Bonus%20Movies%20logo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
