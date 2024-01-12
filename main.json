@@ -20,19 +20,12 @@
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/years", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/yearsmusicvideoslogo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },       
-        {
-            "type": "dir", 
-            "title": "Various One Clicks", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/VariousMVplaylists", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/variousmusicvideoslogo.png?raw=true", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
+        },  
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/variousoneclicks", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/videomashupslogo.png?raw=true", 
-            "title": "One Click Collections", 
+            "title": "Various One Click Collections", 
             "type": "dir"
         },
         {
