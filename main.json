@@ -66,7 +66,8 @@
         {
             "type": "plugin", 
             "title": "Youtube Search", 
-            "link": "plugin://plugin.video.youtube/kodion/search/input/", 
+            "link": "plugin://plugin.video.youtube/kodion/search/input/
+            search", 
             "thumbnail": "https://i.ytimg.com/vi/lHdXQAQHjd8/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
