@@ -62,7 +62,14 @@
             "link": "https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/music%2024-7.xml", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/music247%20logo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },  
+        },                                   
+        {
+            "type": "plugin", 
+            "title": "Youtube Search", 
+            "link": "plugin://plugin.video.youtube/kodion/search/input/", 
+            "thumbnail": "https://i.ytimg.com/vi/lHdXQAQHjd8/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
         {
             "type": "dir", 
             "title": "TEST flac", 
