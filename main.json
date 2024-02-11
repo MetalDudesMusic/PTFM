@@ -71,6 +71,13 @@
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
+            "type": "item", 
+            "title": "TEST Bot free 3", 
+            "link": "https://filetolink8-1ffbc840bff4.herokuapp.com/292841/Pink-Floyd-1987-10-07-Madison-Square-Garden-New-York-DVD2of2.mp4?hash=AgADYw", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
             "type": "item",
             "title": "[COLOR khaki]Clear Cache[/COLOR]",
             "link": "clear_cache",
