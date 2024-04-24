@@ -97,10 +97,17 @@
             "link": "plugin.video.youtube/playlist/PLIiI4TlOIndeGAIZznEPWsBecijZU0gqZ", 
             "thumbnail": "https://i.ytimg.com/vi/yylmVVWKaxE/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },           
+        },            
         {
             "type": "plugin", 
-            "title": " Horror Movies", 
+            "title": "Period drama movies", 
+            "link": "plugin.video.youtube/playlist/PL-_h0BjUSo5Gj-zgIn5JwwYFZLV4ksMSt", 
+            "thumbnail": "https://i.ytimg.com/vi/kv-GpaXxFc0/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Horror Movies", 
             "link": "plugin.video.youtube/playlist/PL-mvaQSisdyDx1GasqwavPwjV9gRb_XFi", 
             "thumbnail": "https://i.ytimg.com/vi/5lKbafAVSZQ/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
@@ -181,7 +188,14 @@
             "link": "plugin.video.youtube/playlist/PL2I1Gl32x39wbfFYrtAU0GUnvcu2bPY9l", 
             "thumbnail": "https://i.ytimg.com/vi/-8EJ9uhsfQQ/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },  
+        },                       
+        {
+            "type": "plugin", 
+            "title": "Crime/Mystery/Thriller", 
+            "link": "plugin.video.youtube/playlist/PLNnKyy7Z3ekGCfNSks3pdNfWcbZ9sTTgi", 
+            "thumbnail": "https://i.ytimg.com/vi/4U7DjxVBbDg/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
         {
             "type": "plugin", 
             "title": "50s 60s 70s 80s Sci Fi/Horror/Film Noir Movies", 
