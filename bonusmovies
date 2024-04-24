@@ -6,7 +6,14 @@
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/YTMovies", 
             "thumbnail": "https://youtubedownload.minitool.com/images/uploads/2020/02/full-movies-on-youtube-thumbnail.png", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },                         
+        },                           
+        {
+            "type": "plugin", 
+            "title": "Music Documentaries", 
+            "link": "plugin.video.youtube/playlist/PL5Ssj_AykzW1pOdGYQRMixPmVFi5N0SYS", 
+            "thumbnail": "https://i.ytimg.com/vi/ahGtmcL7dTQ/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                       
         {
             "type": "plugin", 
             "title": "Great Old Movies", 
@@ -97,7 +104,14 @@
             "link": "plugin.video.youtube/playlist/PL-mvaQSisdyDx1GasqwavPwjV9gRb_XFi", 
             "thumbnail": "https://i.ytimg.com/vi/5lKbafAVSZQ/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },           
+        },            
+        {
+            "type": "plugin", 
+            "title": "Fan Favorites", 
+            "link": "plugin.video.youtube/playlist/PLsZQnDqnebk5_Fet216jHO0j7st2CU9Ue", 
+            "thumbnail": "https://i.ytimg.com/vi/fYmJAEsLE4o/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
         {
             "type": "plugin", 
             "title": "Comedy Movies", 
@@ -110,6 +124,69 @@
             "title": "Classic Adventure Movies", 
             "link": "plugin.video.youtube/playlist/PLBFa2yUBFRr44XVNoeIpMLInFG5N4xXeh", 
             "thumbnail": "https://i.ytimg.com/vi/xMi3MtzS3Iw/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },            
+        {
+            "type": "plugin", 
+            "title": "Sci Fi movies 1950s", 
+            "link": "plugin.video.youtube/playlist/PLRk8KBuNEEmUWIBjIXp_7t4M1iMhuZuJB", 
+            "thumbnail": "https://i.ytimg.com/vi/U_R7LoJCR2E/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },          
+        {
+            "type": "plugin", 
+            "title": "Spy movies", 
+            "link": "plugin.video.youtube/playlist/PLPju5hHOSiozROpr8lhTJVPysIvlRqII0", 
+            "thumbnail": "https://i.ytimg.com/vi/CrlfWnsS7ac/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },            
+        {
+            "type": "plugin", 
+            "title": "Greatest Battle Movies", 
+            "link": "plugin.video.youtube/playlist/PL9lDxmOVB4z4EHSN-zZlECXI7tWACJE3-", 
+            "thumbnail": "https://i.ytimg.com/vi/1l3SkRGQvZs/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },               
+        {
+            "type": "plugin", 
+            "title": "Old Lifetime Movies", 
+            "link": "plugin.video.youtube/playlist/PL9lDxmOVB4z4EHSN-zZlECXI7tWACJE3-", 
+            "thumbnail": "https://i.ytimg.com/vi/1l3SkRGQvZs/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },              
+        {
+            "type": "plugin", 
+            "title": "Childrens Movies", 
+            "link": "plugin.video.youtube/playlist/PL9lDxmOVB4z4EHSN-zZlECXI7tWACJE3-", 
+            "thumbnail": "https://i.ytimg.com/vi/1l3SkRGQvZs/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                         
+        {
+            "type": "plugin", 
+            "title": "Old Gangster Movies", 
+            "link": "plugin.video.youtube/playlist/PLhLj-1nzuhQm2B6l0ps8h-udypaUqwmva", 
+            "thumbnail": "https://i.ytimg.com/vi/aXFtRo6s0fY/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },               
+        {
+            "type": "plugin", 
+            "title": "British Movies", 
+            "link": "plugin.video.youtube/playlist/PL9lDxmOVB4z4EHSN-zZlECXI7tWACJE3-", 
+            "thumbnail": "https://i.ytimg.com/vi/1l3SkRGQvZs/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                     
+        {
+            "type": "plugin", 
+            "title": "Family Friendly Films", 
+            "link": "plugin.video.youtube/playlist/PL2I1Gl32x39wbfFYrtAU0GUnvcu2bPY9l", 
+            "thumbnail": "https://i.ytimg.com/vi/-8EJ9uhsfQQ/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },  
+        {
+            "type": "plugin", 
+            "title": "50s 60s 70s 80s Sci Fi/Horror/Film Noir Movies", 
+            "link": "plugin.video.youtube/playlist/PLAQlOGtboTMGSyCXjihHRO8lBkXecLotW", 
+            "thumbnail": "https://i.ytimg.com/vi/mGOxlzEqC20/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
