@@ -6,6 +6,13 @@
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/YTMovies", 
             "thumbnail": "https://youtubedownload.minitool.com/images/uploads/2020/02/full-movies-on-youtube-thumbnail.png", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                         
+        {
+            "type": "plugin", 
+            "title": "Great Old Movies", 
+            "link": "plugin.video.youtube/playlist/PLeagipoZmyfnIxkk9qKN-ewkuDeI-JP0i", 
+            "thumbnail": "https://i.ytimg.com/vi/6sw_GHrSIcU/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "dir", 
@@ -96,6 +103,13 @@
             "title": "Comedy Movies", 
             "link": "plugin.video.youtube/playlist/PL-mvaQSisdyAXL8NL_jP0k-6Qr4Ew3Mkq", 
             "thumbnail": "https://i.ytimg.com/vi/Mt5XAyuN-yg/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },           
+        {
+            "type": "plugin", 
+            "title": "Classic Adventure Movies", 
+            "link": "plugin.video.youtube/playlist/PLBFa2yUBFRr44XVNoeIpMLInFG5N4xXeh", 
+            "thumbnail": "https://i.ytimg.com/vi/xMi3MtzS3Iw/hqdefault.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
