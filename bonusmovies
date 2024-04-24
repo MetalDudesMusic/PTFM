@@ -4,15 +4,99 @@
             "type": "dir", 
             "title": "Youtube Full Movies", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/YTMovies", 
-            "thumbnail": "", 
-            "fanart": ""
+            "thumbnail": "https://youtubedownload.minitool.com/images/uploads/2020/02/full-movies-on-youtube-thumbnail.png", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
             "type": "dir", 
             "title": "Bonus for the Oldies YT", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/BONUSOLDIES", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/BFTOldieslogo.png?raw=true", 
-            "fanart": ""
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                          
+        {
+            "type": "plugin", 
+            "title": "Old Classic Movies 1940s 1950s 1960s", 
+            "link": "plugin.video.youtube/playlist/PL9lDxmOVB4z4yGGoGt4fy07WVVmS_O4Ml", 
+            "thumbnail": "https://i.ytimg.com/vi/72y_QodAN9s/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Classic Movies of the 1960s", 
+            "link": "plugin.video.youtube/playlist/PLC88802D61D5BB8ED", 
+            "thumbnail": "https://i.ytimg.com/vi/3IBnMqPftZE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },    
+        {
+            "type": "plugin", 
+            "title": "Classic Movies 1960s", 
+            "link": "plugin.video.youtube/playlist/PLBFa2yUBFRr5fHinx03TrPVsNkCNlhdON", 
+            "thumbnail": "https://i.ytimg.com/vi/xMi3MtzS3Iw/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "plugin", 
+            "title": "1970s Movies", 
+            "link": "plugin.video.youtube/playlist/PLKxdKKLx3iRRmoTEhCPhr0hlMXuY2QWK9", 
+            "thumbnail": "https://i.ytimg.com/vi/b6IF0KZOklE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "plugin", 
+            "title": "RARE 70s movies", 
+            "link": "plugin.video.youtube/playlist/PL9-JlwYEj37V_WAJ4lUEbOKgrjhbBNueT", 
+            "thumbnail": "https://i.ytimg.com/vi/OJTmrNK92aQ/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "plugin", 
+            "title": "RARE 80s movies", 
+            "link": "plugin.video.youtube/playlist/PL9-JlwYEj37W_Mx6OMVrGb4TOBCeCQ9de", 
+            "thumbnail": "https://i.ytimg.com/vi/-8xDv-zqO0c/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "plugin", 
+            "title": "1980s movies", 
+            "link": "plugin.video.youtube/playlist/PLIiI4TlOIndeSqfJt0JRtRtTzk2Ynz0n-", 
+            "thumbnail": "https://i.ytimg.com/vi/SnuXTBuRytY/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },            
+        {
+            "type": "plugin", 
+            "title": "90s movies", 
+            "link": "plugin.video.youtube/playlist/PLQ0dKQ3ARwRZBVPLwE8BUWnvAErnRahoh", 
+            "thumbnail": "https://i.ytimg.com/vi/x5vOYLi2QCc/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },           
+        {
+            "type": "plugin", 
+            "title": "Underrated 90s Movies", 
+            "link": "plugin.video.youtube/playlist/PL-1zpULZcBtSdNqkivRNtLWvsmC2uVLJZ", 
+            "thumbnail": "https://i.ytimg.com/vi/dimLzlKerW0/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },            
+        {
+            "type": "plugin", 
+            "title": "2000s movies", 
+            "link": "plugin.video.youtube/playlist/PLIiI4TlOIndeGAIZznEPWsBecijZU0gqZ", 
+            "thumbnail": "https://i.ytimg.com/vi/yylmVVWKaxE/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },           
+        {
+            "type": "plugin", 
+            "title": " Horror Movies", 
+            "link": "plugin.video.youtube/playlist/PL-mvaQSisdyDx1GasqwavPwjV9gRb_XFi", 
+            "thumbnail": "https://i.ytimg.com/vi/5lKbafAVSZQ/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },           
+        {
+            "type": "plugin", 
+            "title": "Comedy Movies", 
+            "link": "plugin.video.youtube/playlist/PL-mvaQSisdyAXL8NL_jP0k-6Qr4Ew3Mkq", 
+            "thumbnail": "https://i.ytimg.com/vi/Mt5XAyuN-yg/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
 }
