@@ -1,12 +1,5 @@
 {
-    "items": [       
-        {
-            "type": "dir", 
-            "title": "One Click Concerts", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/ConcertsOneClick", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/oneclickconcertslogo.png?raw=true", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },   
+    "items": [   
         {
             "type": "dir", 
             "title": "All things concerts", 
