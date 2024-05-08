@@ -1,5 +1,12 @@
 {
-    "items": [   
+    "items": [    
+        {
+            "type": "dir", 
+            "title": "Tomorrowland Belgium - Livesets", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/TommorowlandBelguimSetlists.json", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/allthingsconcertslogo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }, 
         {
             "type": "dir", 
             "title": "All things concerts", 
