@@ -1,5 +1,40 @@
 {
-    "items": [    
+    "items": [       
+        {
+            "type": "plugin", 
+            "title": "R&B & Classic Soul Concerts YT", 
+            "link": "plugin.video.youtube/playlist/PLbWFhmVKSbNHKOfHl_GbYpXBIdGajRZVA", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },       
+        {
+            "type": "plugin", 
+            "title": "Rock Music Concerts YT", 
+            "link": "plugin.video.youtube/playlist/PLyVBTKAo3953OO15KPNq8BlYFyIiOyXhe", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },      
+        {
+            "type": "plugin", 
+            "title": "Kylie Minogue Concerts YT", 
+            "link": "plugin.video.youtube/playlist/PL01MrcGUqaeDvQzD-mUOhw4FoQXY88kDa", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },    
+        {
+            "type": "plugin", 
+            "title": "Kylie Minogue Concerts YT", 
+            "link": "plugin.video.youtube/playlist/PL01MrcGUqaeDvQzD-mUOhw4FoQXY88kDa", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },     
+        {
+            "type": "plugin", 
+            "title": "Live Full Length Concerts YT", 
+            "link": "plugin.video.youtube/playlist/PLpjGSIUToJc7RG4hYZf1OQxhADJ20mu5f", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },  
         {
             "type": "plugin", 
             "title": "Full Concerts on youtube YT", 
@@ -13,7 +48,14 @@
             "link": "plugin.video.youtube/playlist/PLZ_5bDEnailcnRrUWEqYpIAkPM0ZNsZgr", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },    
+        },       
+        {
+            "type": "plugin", 
+            "title": "The 3 Tenors Concerts YT", 
+            "link": "plugin.video.youtube/playlist/PL5_IClRb135So9Darlka9eVazcjLA2XA0", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },  
         {
             "type": "plugin", 
             "title": "Smooth Jazz Concerts YT", 
