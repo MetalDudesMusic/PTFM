@@ -1,6 +1,69 @@
 {
     "items": [    
         {
+            "type": "plugin", 
+            "title": "Full Concerts on youtube YT", 
+            "link": "plugin.video.youtube/playlist/PL9760EA8B9633FCC0", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },     
+        {
+            "type": "plugin", 
+            "title": "Live At Rockpalast Concerts YT", 
+            "link": "plugin.video.youtube/playlist/PLZ_5bDEnailcnRrUWEqYpIAkPM0ZNsZgr", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },    
+        {
+            "type": "plugin", 
+            "title": "Smooth Jazz Concerts YT", 
+            "link": "plugin.video.youtube/playlist/PLubQNZN9wAUfnVvloKm4_himZIuuwmFK7", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },   
+        {
+            "type": "plugin", 
+            "title": "Jazz Groovy (Fusion Funk Nu-Jazz) Concerts YT", 
+            "link": "plugin.video.youtube/playlist/PL6dm1M94_Dw1it7fNmUWYMmxogF9U2E6K", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },    
+        {
+            "type": "plugin", 
+            "title": "All Woodstock 99 Performances in Order YT", 
+            "link": "plugin.video.youtube/playlist/PL6dm1M94_Dw1it7fNmUWYMmxogF9U2E6K", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },    
+        {
+            "type": "plugin", 
+            "title": "Soul/Funk/R&B Concerts YT", 
+            "link": "plugin.video.youtube/playlist/PLKnoifHxcT0ZnVgYQMBuuv5-Pkarydyyu", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },   
+        {
+            "type": "plugin", 
+            "title": "THE 80s Hard Rock Concerts YT", 
+            "link": "plugin.video.youtube/playlist/PLCDalNhAt4J9QteJDO-cS37tEgrSTX0yw", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },    
+        {
+            "type": "plugin", 
+            "title": "Live by Request Concerts YT", 
+            "link": "plugin.video.youtube/playlist/PLW2ewqjgm1zzm8JQqFSciuuOQROdvSGaa", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },   
+        {
+            "type": "plugin", 
+            "title": "Full Concerts 1080P YT", 
+            "link": "plugin.video.youtube/playlist/PLYjoDVABBjpQyJ1My7LuTNGmG9ApaNwfP", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
             "type": "dir", 
             "title": "Tomorrowland Belgium - Livesets", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/TommorowlandBelguimSetlists.json", 
