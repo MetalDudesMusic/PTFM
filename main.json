@@ -92,6 +92,13 @@
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
+            "type": "item", 
+            "title": "TEST 444", 
+            "link": "http://grayt.club:8085/Shares/Music/Albums%5C/80s%20Rock%5C/Rock%20of%20the%2080%27s%5C/01.%20Glenn%20Frey%20-%20The%20Heat%20Is%20On.flac", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
             "type": "item",
             "title": "[COLOR khaki]Clear Cache[/COLOR]",
             "link": "clear_cache",
