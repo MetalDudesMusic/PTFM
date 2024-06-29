@@ -1,9 +1,30 @@
 {
-    "items": [            
+    "items": [          
         {
             "type": "item", 
             "title": "Eminem: Live from Detroit 2023 Anger Management Tour 2", 
             "link": "https://www.youtube.com/watch?v=0aVfL_4_NLw", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                    
+        {
+            "type": "item", 
+            "title": "Wu Tang Clan Live in Amsterdam 1997", 
+            "link": "https://www.youtube.com/watch?v=yX2h11i2whA", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },              
+        {
+            "type": "item", 
+            "title": "DMX - Its Dark and Hell is Hot", 
+            "link": "https://www.youtube.com/watch?v=ZZgbBcrDMg4", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },              
+        {
+            "type": "item", 
+            "title": "MC Hammer Live Tokyo Dome 1991", 
+            "link": "https://www.youtube.com/watch?v=1p_cyRtb_04", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },              
