@@ -1,5 +1,61 @@
 {
-    "items": [          
+    "items": [            
+        {
+            "type": "item", 
+            "title": "Eminem: Live from Detroit 2023 Anger Management Tour 2", 
+            "link": "https://www.youtube.com/watch?v=0aVfL_4_NLw", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },              
+        {
+            "type": "item", 
+            "title": "Kid Rock - Full Concert - 07/24/99 - Woodstock 99 East Stage", 
+            "link": "https://www.youtube.com/watch?v=BsrMqnNxy1o", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "item", 
+            "title": "Beats Music Presents", 
+            "link": "https://www.youtube.com/watch?v=5f0PdWAWTeM", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },             
+        {
+            "type": "item", 
+            "title": "Snoop Dogg - Live at the Avalon", 
+            "link": "https://www.youtube.com/watch?v=6_h75JXBnSo", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },           
+        {
+            "type": "item", 
+            "title": "Beats Music Presents", 
+            "link": "https://www.youtube.com/watch?v=5f0PdWAWTeM", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },           
+        {
+            "type": "item", 
+            "title": "Beats by Dre Party: Eminem Ice Cube Diddy Method Man Redman Busta Rhymes Nas and more", 
+            "link": "https://www.youtube.com/watch?v=ZyruKQ7ULos", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },          
+        {
+            "type": "item", 
+            "title": "50 Cent SXSW 2012", 
+            "link": "https://www.youtube.com/watch?v=VF_Kz3xX_tg", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },          
+        {
+            "type": "item", 
+            "title": "Biggie Smalls Wu Tang Clan Snoop Dogg Warren G & Run DMC - Concert 1995 Philadelphia", 
+            "link": "https://www.youtube.com/watch?v=a1pdKrCGThs", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },        
         {
             "type": "plugin", 
             "title": "Apple Music Festival Concerts YT", 
