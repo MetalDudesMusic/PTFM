@@ -86,15 +86,8 @@
         },
         {
             "type": "dir", 
-            "title": "TEST 442", 
-            "link": "http://grayt.club:8085/Shares/Music/Albums%5C/80s%20Rock%5C/Rock%20Of%20The%20%2780s%20-%20Volume%201%5C/", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "item", 
-            "title": "TEST 444", 
-            "link": "http://grayt.club:8085/Shares/Music/Albums%5C/80s%20Rock%5C/Rock%20of%20the%2080%27s%5C/01.%20Glenn%20Frey%20-%20The%20Heat%20Is%20On.flac", 
+            "title": "TEST", 
+            "link": "", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
