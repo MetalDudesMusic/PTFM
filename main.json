@@ -27,7 +27,14 @@
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/years", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/yearsmusicvideoslogo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },  
+        },              
+        {
+            "type": "dir", 
+            "title": "Music Documentaries", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/musician/Documentaries.json", 
+            "thumbnail": "https://cdn-profiles.tunein.com/p3416128/images/logog.png", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        }, 
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/variousoneclicks", 
