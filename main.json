@@ -30,7 +30,7 @@
         },              
         {
             "type": "dir", 
-            "title": "Music Documentaries 2", 
+            "title": "Music Documentaries", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/Documentaries.json", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
