@@ -3,7 +3,7 @@
         {
             "type": "plugin", 
             "title": "Search", 
-            "link": "plugin://plugin.video.youtube/kodion/search/query/?q="+search_id+"/", 
+            "link": "plugin://plugin.video.youtube/kodion/search/query/?q=", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
