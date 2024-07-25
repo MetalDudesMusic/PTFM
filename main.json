@@ -101,7 +101,7 @@
         {
             "type": "plugin", 
             "title": "TEST 3", 
-            "link": "plugin://plugin.video.youtube/channel/UCYZ11-hqT0MUhzgstStiyVQ", 
+            "link": "", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },  
