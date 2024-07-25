@@ -2,7 +2,7 @@
     "items": [
         {
             "type": "item", 
-            "title": "TOMORROWLAND BELGIUM 2024 LIVE!", 
+            "title": "TOMORROWLAND BELGIUM 2024 LIVE", 
             "link": "https://youtu.be/B_dkwPx9J9Y", 
             "thumbnail": "https://i1.sndcdn.com/artworks-Q5GdHKp49dsBnupg-U6yznQ-t500x500.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
@@ -101,7 +101,7 @@
         {
             "type": "plugin", 
             "title": "TEST 3", 
-            "link": "plugin://plugin.video.youtube/channel/@BlendLineTV", 
+            "link": "plugin://plugin.video.youtube/channel/@BlendLineTV/", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },  
