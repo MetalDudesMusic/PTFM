@@ -48,13 +48,6 @@
             "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/main/variousmusicvideoslogo.png", 
             "title": "Various", 
             "type": "dir"
-        },  
-        {
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/soundclout.json", 
-            "thumbnail": "", 
-            "title": "Soundcloud", 
-            "type": "dir"
         },
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
@@ -111,6 +104,13 @@
             "link": "plugin://plugin.video.youtube/channel/@BlendLineTV", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        }   
+        },  
+        {
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/soundclout.json", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
+            "title": "Soundcloud still testing", 
+            "type": "dir"
+        },   
     ]
 }
