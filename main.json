@@ -1,6 +1,13 @@
 {
     "items": [
         {
+            "type": "plugin", 
+            "title": "Search", 
+            "link": "plugin://plugin.video.youtube/kodion/search/query/?q="+search_id+"/", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
             "type": "item", 
             "title": "TOMORROWLAND BELGIUM 2024 LIVE! Sunday", 
             "link": "https://youtu.be/B_dkwPx9J9Y", 
