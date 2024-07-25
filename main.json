@@ -1,13 +1,6 @@
 {
     "items": [
         {
-            "type": "plugin", 
-            "title": "Search", 
-            "link": "plugin://plugin.video.youtube/kodion/search/query/?q=", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
             "type": "item", 
             "title": "TOMORROWLAND BELGIUM 2024 LIVE! Sunday", 
             "link": "https://youtu.be/B_dkwPx9J9Y", 
@@ -113,9 +106,9 @@
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
-            "type": "item", 
+            "type": "plugin", 
             "title": "TEST 3", 
-            "link": "https://mnlx.v421c6e485f.site/_v2-ewkl/9a701df34da7e4ae16c25b01dd7fefae741925c41516c1ab8c9d78fe4fcd06741ae3e719f0ef63837c6cf62e8daaecb28d7ff9aa0d734593957b6bcb9454513328e665c3339bf0e86495f376975c98c8128f7cada5ebd952ca625cf4a29fa3f3/h/list;9d705ee448b4e4e553dc06568f6feda3345b239e1c12c8.m3u8", 
+            "link": "plugin://plugin.video.youtube/channel/@BlendLineTV", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }   
