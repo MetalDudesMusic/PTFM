@@ -1,16 +1,6 @@
 {
     "items": [
         {
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true",
-            "link": [
-                "https://www.youtube.com/watch?v=B_dkwPx9J9Y( Main Stage )",
-                "https://www.youtube.com/watch?v=D22jRAT88jY( Freedom Stage )"
-            ],
-            "thumbnail": "https://i1.sndcdn.com/artworks-Q5GdHKp49dsBnupg-U6yznQ-t500x500.jpg",
-            "title": "[COLORorange]TOMORROWLAND [COLORsnow]- BELGIUM 2024 -[COLORorange] - LIVE! [/COLOR]",
-            "type": "item"
-        },
-        {
             "type": "dir", 
             "title": "Members Playlists", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/members.json", 
