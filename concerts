@@ -1,10 +1,10 @@
 {
-    "items": [         
+    "items": [                                
         {
             "type": "plugin", 
-            "title": "Full Concerts Youtube 4K", 
-            "link": "plugin.video.youtube/playlist/PLBv-YliYLm58z4Scy2pTGccQ2cHFpSG_c", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "title": "Tomorrowland Belgium 2024 - Livesets", 
+            "link": "plugin.video.youtube/playlist/PLoSIOFPSXQoO6Y2EaUcVcBXQm7pkkY0n3", 
+            "thumbnail": "https://i1.sndcdn.com/artworks-Q5GdHKp49dsBnupg-U6yznQ-t500x500.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },        
         {
