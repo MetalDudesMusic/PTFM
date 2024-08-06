@@ -1,5 +1,12 @@
 {
-    "items": [       
+    "items": [  
+        {
+            "type": "dir", 
+            "title": "Tomorrowland Belgium - Livesets", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/TommorowlandBelguimSetlists.json", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/allthingsconcertslogo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },     
         {
             "type": "item", 
             "title": "Eminem: Live from Detroit 2023 Anger Management Tour 2", 
@@ -313,13 +320,6 @@
             "title": "Full Concerts 1080P YT", 
             "link": "plugin.video.youtube/playlist/PLYjoDVABBjpQyJ1My7LuTNGmG9ApaNwfP", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "dir", 
-            "title": "Tomorrowland Belgium - Livesets", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/TommorowlandBelguimSetlists.json", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/allthingsconcertslogo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }, 
         {
