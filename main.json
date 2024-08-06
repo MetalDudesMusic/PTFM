@@ -92,9 +92,9 @@
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
-            "type": "plugin", 
-            "title": "TEST 3", 
-            "link": "", 
+            "type": "dir", 
+            "title": "TEST", 
+            "link": "https://www.ashleecadell.com/xyzstorelibrary/", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },  
