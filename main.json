@@ -94,7 +94,7 @@
         {
             "type": "dir",
             "title": "Test EXT 1",
-            "apache_dir": "https://www.ashleecadell.com/xyzstorelibrary/"
+            "test1_dir": "https://www.ashleecadell.com/xyzstorelibrary/"
         },  
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
