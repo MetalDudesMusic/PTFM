@@ -1,12 +1,5 @@
 {
-    "items": [  
-        {
-            "type": "dir", 
-            "title": "Tomorrowland Belgium - Livesets", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/TommorowlandBelguimSetlists.json", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/allthingsconcertslogo.png?raw=true", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },     
+    "items": [    
         {
             "type": "item", 
             "title": "Eminem: Live from Detroit 2023 Anger Management Tour 2", 
