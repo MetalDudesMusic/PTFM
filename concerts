@@ -1,5 +1,12 @@
 {
-    "items": [    
+    "items": [         
+        {
+            "type": "plugin", 
+            "title": "Various Live concerts", 
+            "link": "plugin.video.youtube/playlist/PLo-6KbHoUBdg-oAUVPE5lnYRlwfSo5hnS", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%204K%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },  
         {
             "type": "item", 
             "title": "Eminem: Live from Detroit 2023 Anger Management Tour 2", 
