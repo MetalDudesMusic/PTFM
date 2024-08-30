@@ -1,13 +1,5 @@
 {
-    "items": [                      
-        {
-            "type": "plugin", 
-            "title": "[I][B][COLORfuchsia]--==[COLORlime] Creamfields UK [COLORyellow]2024[COLORfuchsia]==--[/COLOR][/B][/I]", 
-            "link": "plugin.video.youtube/playlist/PL7mkH1L93DlI5vvWd22Rvwm9kLJa49wFQ", 
-            "summary": "Creamfields is an electronic dance music festival series founded and organised by British club promoter Cream with its UK edition taking place on August Bank Holiday weekend",  
-            "thumbnail": "https://cdn.efestivals.co.uk/photos/misc_festivals/Creamfields24.webp", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
+    "items": [ 
         {
             "type": "dir", 
             "title": "Members Playlists", 
