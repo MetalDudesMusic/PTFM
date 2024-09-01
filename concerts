@@ -340,7 +340,7 @@
             "type": "plugin", 
             "title": "HD Concerts Playlist YT", 
             "link": "plugin.video.youtube/playlist/PLgTorTVCekZhQesUUZRLh_FKEZjaovpJi", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Concerts%201080p%20logo.png?raw=true", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }
     ]
