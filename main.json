@@ -4,7 +4,7 @@
             "type": "dir", 
             "title": "Members Playlists", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/members.json", 
-            "thumbnail": "https://t4.ftcdn.net/jpg/01/15/13/75/360_F_115137528_PB2JaCyZC3wAwLit3miUXHXSztSgtPY8.jpg", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/membersplaylistslogo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },
         {
@@ -18,7 +18,7 @@
             "type": "dir", 
             "title": "EDM Music Festivals", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/musicfestivals.json", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/musicfestivalslogo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },    
         {
@@ -39,7 +39,7 @@
             "type": "dir", 
             "title": "Music Documentaries", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/Documentaries.json", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/musicdocoslogo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }, 
         {
