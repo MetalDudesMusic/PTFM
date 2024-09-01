@@ -100,9 +100,9 @@
         },  
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
-            "apache_dir": "https://www.ashleecadell.com/xyzstorelibrary/", 
+            "apache_dir": "", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
-            "title": "Test EXT 2", 
+            "title": "Test EXT", 
             "type": "dir"
         },
         {
