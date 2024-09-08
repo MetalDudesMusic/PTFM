@@ -104,6 +104,13 @@
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
             "title": "J2X4 Test EXT", 
             "type": "dir"
+        },  
+        {
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/j2x2test.xml", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
+            "title": "auto Test 2 EXT", 
+            "type": "dir"
         },
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
