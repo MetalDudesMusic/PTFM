@@ -100,9 +100,9 @@
         },  
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
-            "apache_dir": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/jsontoxmltest.xml", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/jsontoxmltest.xml", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
-            "title": "J2X2 Test EXT", 
+            "title": "J2X4 Test EXT", 
             "type": "dir"
         },
         {
