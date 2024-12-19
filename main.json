@@ -23,7 +23,7 @@
         },  
         {
             "type": "dir", 
-            "title": "EDM Music Festivals", 
+            "title": "Music Festivals", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/musicfestivals.json", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/musicfestivalslogo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
