@@ -114,9 +114,9 @@
         },
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
-            "link": "https://github.com/MetalDudesMusic/newPTFM/blob/main/main.xml", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/newPTFM/main/main.xml", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
-            "title": "test xml", 
+            "title": "test xml 2", 
             "type": "dir"
         },  
         {
