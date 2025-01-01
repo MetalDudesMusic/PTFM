@@ -1,6 +1,14 @@
 {
     "items": [  
         {
+            "type": "plugin", 
+            "title": "NYE 24-25 World Celebrations", 
+            "link": "plugin.video.youtube/playlist/PLONYyaNUir5TGoDTB74AlOnke_h2sdR8K", 
+            "summary": "Fireworks from Around the World (19hrs worth) to break in 2025 New Year.",  
+            "thumbnail": "https://i.ytimg.com/vi/Iup282pakRw/hqdefault.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png"
+        },
+        {
             "type": "dir", 
             "title": "Christmas Music Concerts & Movies", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/refs/heads/main/tunes/masx/masxmenu.json", 
