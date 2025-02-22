@@ -2,23 +2,30 @@
     "items": [
         {
             "fanart": "", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Metal/main/Metal-Concerts.json", 
+            "thumbnail": "", 
+            "title": "Metals Concerts", 
+            "type": "dir"
+        },
+        {
+            "fanart": "", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Metal/main/Metal-Vids.json", 
             "thumbnail": "", 
-            "title": "Metal Vids", 
+            "title": "Metals Vids", 
             "type": "dir"
         },
         {
             "fanart": "", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Metal/main/Music-Choice.json", 
             "thumbnail": "", 
-            "title": "Music Choice", 
+            "title": "Musics Choice", 
             "type": "dir"
         },
         {
             "fanart": "", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Metal/main/Music-Vids-Dance.json", 
             "thumbnail": "", 
-            "title": "Musics Vids Dance", 
+            "title": "Metals Musics Vids Dance", 
             "type": "dir"
         }
     ]
