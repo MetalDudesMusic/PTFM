@@ -2,13 +2,6 @@
     "items": [
         {
             "type": "dir", 
-            "title": "Coachella 2025 LIVE! Weekend 2", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/cochellalive2025.json", 
-            "thumbnail": "https://media.coachella.com/content/seo_images/640/HZ5m5X9DNiPD2cbH6SlCi4bicBJ7ta66CmROO8EE.jpg", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "dir", 
             "title": "Members Playlists", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/members.json", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/membersplaylistslogo.png?raw=true", 
