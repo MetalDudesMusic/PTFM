@@ -1,12 +1,131 @@
 {
-    "items": [         
+    "items": [            
+        {
+            "type": "plugin", 
+            "title": "Every Super Bowl Half-Time Show (1993-2025)", 
+            "link": "plugin.video.youtube/playlist/PLfH76HuLCHpGJaVlCI-k93_mvW9je-uxG", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },      
         {
             "type": "plugin", 
             "title": "Various Live concerts", 
             "link": "plugin.video.youtube/playlist/PLo-6KbHoUBdg-oAUVPE5lnYRlwfSo5hnS", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },  
+        },   
+        {
+            "type": "item", 
+            "title": "Black Sabbath - Live… Gathered In Their Masses 2025", 
+            "link": "https://www.youtube.com/watch?v=9dNh_5JxVmE", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },     
+        {
+            "type": "item", 
+            "title": "AC/DC - Full Show Live @ Ford Field - Detroit MI - April 30 2025", 
+            "link": "https://youtu.be/H3C5dB1zX-s", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },      
+        {
+            "type": "item", 
+            "title": "SHAKIRA - FULL SHOW@MetLife Stadium East Rutherford, NJ 5/15/25", 
+            "link": "https://www.youtube.com/watch?v=uvMdZHe2E_4", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },       
+        {
+            "type": "item", 
+            "title": "Billy Idol Live at The Woodlands 2025 - Pit Front Row HD", 
+            "link": "https://www.youtube.com/watch?v=V-zZuMkSc2o", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "item", 
+            "title": "Coldplay – Music Of The Spheres in Seoul 2025", 
+            "link": "https://www.youtube.com/watch?v=1_CESNaaGwE", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },       
+        {
+            "type": "item", 
+            "title": "Alice Cooper in Huntsville 5/2/25 FULL SHOW", 
+            "link": "https://www.youtube.com/watch?v=kG1DPvyh49c", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },       
+        {
+            "type": "item", 
+            "title": "Sammy Hagar (05-03-25 Full Show W/Timecodes 4k) Las Vegas Residency", 
+            "link": "https://www.youtube.com/watch?v=WoP684wOXpo", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },       
+        {
+            "type": "item", 
+            "title": "Linkin Park - From Zero World Tour 2025 - Live in Austin TX", 
+            "link": "https://www.youtube.com/watch?v=vOaPt3AA7Jo", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },       
+        {
+            "type": "item", 
+            "title": "Post Malone - Big Ass Stadium Tour Toronto May 26 2025", 
+            "link": "https://www.youtube.com/watch?v=BuFNRxZmXAA", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },       
+        {
+            "type": "item", 
+            "title": "PANTERA - FULL SHOW@Lincoln Financial Field Philadelphia 5/25/25", 
+            "link": "https://www.youtube.com/watch?v=vJRYzDpkhFU", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },       
+        {
+            "type": "item", 
+            "title": "Roxette Full Concert Every Song in 4K March 2025", 
+            "link": "https://www.youtube.com/watch?v=amOrReAMg-I", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },       
+        {
+            "type": "item", 
+            "title": "Sting - May 22 2025 at Red Rocks", 
+            "link": "https://www.youtube.com/watch?v=j7qwMbVDBws", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },       
+        {
+            "type": "item", 
+            "title": "Pearl Jam @ State Farm Arena Atlanta GA 5/1/2025", 
+            "link": "https://www.youtube.com/watch?v=CuzoyUJH1-4", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },       
+        {
+            "type": "item", 
+            "title": "Beyoncé - Cowboy Carter Tour at MetLife FULL 5/25/25", 
+            "link": "https://www.youtube.com/watch?v=VrsLyU8nuVA", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },       
+        {
+            "type": "item", 
+            "title": "Lady Gaga Concert 2025 Full Show Singapore", 
+            "link": "https://www.youtube.com/watch?v=LBMK1GvnA58", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },      
+        {
+            "type": "item", 
+            "title": "METALLICA - FULL SHOW NIGHT 2@Lincoln Financial Field Philadelphia 5/25/25", 
+            "link": "https://www.youtube.com/watch?v=byyQUhagMNI", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
         {
             "type": "item", 
             "title": "Eminem: Live from Detroit 2023 Anger Management Tour 2", 
