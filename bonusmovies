@@ -6,7 +6,63 @@
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/YTMovies", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Bonus%20Movies%20logo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },                       
+        },                             
+        {
+            "type": "plugin", 
+            "title": "BLOCKBUSTER MOVIES", 
+            "link": "plugin.video.youtube/playlist/PLdk1SI29-q9yrN9GFMnOAYmC_tcw5v59L", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Bonus%20Movies%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },          
+        {
+            "type": "plugin", 
+            "title": "Top Free Full Length Nineties Movies", 
+            "link": "plugin.video.youtube/playlist/PLum50h_rWpG4qrfp2vW4jIrk2tH9YzuUv", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Bonus%20Movies%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Free horror movies", 
+            "link": "plugin.video.youtube/playlist/PLwiKM679p3CXTpLf0MTseUXwwmbFYlQs0", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Bonus%20Movies%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                         
+        {
+            "type": "plugin", 
+            "title": "Free family movies", 
+            "link": "plugin.video.youtube/playlist/PLIiI4TlOIndeByskH1HvhkdaFy20-42KS", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Bonus%20Movies%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                         
+        {
+            "type": "plugin", 
+            "title": "FULL LENGTH FREE MOVIES", 
+            "link": "plugin.video.youtube/playlist/PLDySQNnzfMCqoBxquMEhCOi0GUEB1RbCf", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Bonus%20Movies%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                            
+        {
+            "type": "plugin", 
+            "title": "Top Free Full Length Gangster Movies", 
+            "link": "plugin.video.youtube/playlist/PLum50h_rWpG7p-y9w0i_7dCKPKb5qNlCK", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Bonus%20Movies%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                           
+        {
+            "type": "plugin", 
+            "title": "Classic 30s, 40s and 50s Movies", 
+            "link": "plugin.video.youtube/playlist/PLWh3lqbiczuMuXWR4v1_eAlW0oxOTs8d9", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Bonus%20Movies%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                          
+        {
+            "type": "plugin", 
+            "title": "Zombie Movies", 
+            "link": "plugin.video.youtube/playlist/PLCQSHH1d7fL04z6wNRhuA72MwzHoMPDWS", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Bonus%20Movies%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },               
         {
             "type": "plugin", 
             "title": "Great Old Movies", 
