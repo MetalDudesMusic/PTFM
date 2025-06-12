@@ -114,17 +114,38 @@
         },
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/newPTFM/main/main.xml", 
+            "link": "http://92.247.236.71:9800/Music%20Video/", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
-            "title": "test xml 3", 
+            "title": "test 1", 
+            "type": "dir"
+        },
+        {
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
+            "link": "http://92.247.236.71:9800/Music%20Video", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
+            "title": "test 1a", 
             "type": "dir"
         },  
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
-            "link": "https://watchf1full.com/1st-practice-f1-2025-australian-grand-prix-march-13-2025_ff2e33dc7.html", 
+            "link": "http://92.247.236.71:9800/Music%20Video/ACDC%20No%20Bull/", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
-            "title": "Test 2a", 
+            "title": "Test 2two", 
             "type": "item"
+        },
+        {
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
+            "link": "https://beta.the-eye.eu/public/Random/mtv/", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
+            "title": "test 3", 
+            "type": "dir"
+        },
+        {
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
+            "link": "https://beta.the-eye.eu/public/Random/mtv", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
+            "title": "test 3a", 
+            "type": "dir"
         },
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
