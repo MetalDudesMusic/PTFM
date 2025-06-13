@@ -1,5 +1,33 @@
 {
-    "items": [            
+    "items": [        
+        {
+            "type": "item", 
+            "title": "METALLICA - FULL SHOW - 06/06/2025 Raymond James Stadium Tampa Florida", 
+            "link": "PLuBPg3ImZOjY7WlJKRcPYCQr4LdLotsbB", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },      
+        {
+            "type": "item", 
+            "title": "Pearl Jam - New Orleans - Jazz Fest - 2025/05/03 - Full Show", 
+            "link": "https://www.youtube.com/watch?v=bJZ7dyuzb-U", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                 
+        {
+            "type": "plugin", 
+            "title": "Concerts Full Show", 
+            "link": "plugin.video.youtube/playlist/PL6RKx9taaDIK88zXdiWn64gEgX5Its8Zs", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },        
+        {
+            "type": "plugin", 
+            "title": "Glastonbury Full Sets", 
+            "link": "plugin.video.youtube/playlist/PLPEH9n2NIpqyLh_f3rTfnCH7F2v0k9MUV", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },          
         {
             "type": "plugin", 
             "title": "Every Super Bowl Half-Time Show (1993-2025)", 
