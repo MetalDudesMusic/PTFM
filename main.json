@@ -1,5 +1,10 @@
 {
     "items": [
+        { 
+            "type": "dir", 
+            "title": "[COLOR khaki]YouTube Search[/COLOR]", 
+            "ytdlp": "search"
+        },
         {
             "type": "dir", 
             "title": "Members Playlists", 
@@ -146,11 +151,6 @@
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
             "title": "test 3a", 
             "type": "dir"
-        },
-        { 
-            "type": "dir", 
-            "title": "[COLOR khaki]YouTube Search[/COLOR]", 
-            "ytdlp": "search"
         },
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
