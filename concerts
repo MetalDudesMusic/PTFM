@@ -1,19 +1,5 @@
 {
-    "items": [        
-        {
-            "type": "item", 
-            "title": "METALLICA - FULL SHOW - 06/06/2025 Raymond James Stadium Tampa Florida", 
-            "link": "PLuBPg3ImZOjY7WlJKRcPYCQr4LdLotsbB", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },      
-        {
-            "type": "item", 
-            "title": "Pearl Jam - New Orleans - Jazz Fest - 2025/05/03 - Full Show", 
-            "link": "https://www.youtube.com/watch?v=bJZ7dyuzb-U", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },                 
+    "items": [                      
         {
             "type": "plugin", 
             "title": "Concerts Full Show", 
@@ -25,6 +11,27 @@
             "type": "plugin", 
             "title": "Glastonbury Full Sets", 
             "link": "plugin.video.youtube/playlist/PLPEH9n2NIpqyLh_f3rTfnCH7F2v0k9MUV", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "item", 
+            "title": "Aerosmith Hollywood Rock 94 Praça Da Apoteose Rio De Janeiro Brazil 21 01 1994", 
+            "link": "https://www.youtube.com/watch?v=2DlXVyKu7l8", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },      
+        {
+            "type": "item", 
+            "title": "Linkin Park - From Zero World Tour 2025 - Live in Austin TX 04/26/2025", 
+            "link": "https://www.youtube.com/watch?v=vOaPt3AA7Jo", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },      
+        {
+            "type": "item", 
+            "title": "Pearl Jam - New Orleans - Jazz Fest - 2025/05/03 - Full Show", 
+            "link": "https://www.youtube.com/watch?v=bJZ7dyuzb-U", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },          
