@@ -147,6 +147,11 @@
             "title": "test 3a", 
             "type": "dir"
         },
+        { 
+            "type": "dir", 
+            "title": "[COLOR khaki]YouTube Search[/COLOR]", 
+            "ytdlp": "search"
+        },
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/soundclout.json", 
