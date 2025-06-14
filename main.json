@@ -121,14 +121,14 @@
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
             "link": "https://beta.the-eye.eu/public/Random/mtv/1981.08.01%20-%20MTV%20First%20Four%20Hours%20-%2012am%20Saturday%20August%201st%2C%201981.mp4", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
-            "title": "test 1mtv", 
+            "title": "test 2 mtv", 
             "type": "item"
         },
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
             "link": "http://104.251.123.41/2+2=5-Radiohead%20live.mp4", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
-            "title": "test 1c", 
+            "title": "test 1d", 
             "type": "item"
         },  
         {
@@ -136,7 +136,7 @@
             "link": "http://92.247.236.71:9800/Music%20Video/ACDC%20No%20Bull/", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
             "title": "Test 2two", 
-            "type": "item"
+            "type": "dir"
         },
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
