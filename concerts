@@ -6,7 +6,49 @@
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/BlackSabbathbeginnings.json", 
             "thumbnail": "https://thegallery.gr/wp-content/uploads/2025/02/black-sabbath-live-2025.jpg", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },                      
+        },           
+        {
+            "type": "item", 
+            "title": "The Weeknd - FULL CONCERT (Live in Vancouver, July 16 2025) [After Hours til Dawn Tour]", 
+            "link": "https://www.youtube.com/watch?v=gPisgFYUpRM", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "item", 
+            "title": "Judas Priest - live at Hellfest 2025 - ARTE Concert", 
+            "link": "https://www.youtube.com/watch?v=nobF_enLsoU", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "item", 
+            "title": "Alice Cooper - Live at The Enmore Theatre", 
+            "link": "https://www.youtube.com/watch?v=Da9pgtm2qNg", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "item", 
+            "title": "Eagles - Live at The Sphere Las Vegas, 9.21.2024", 
+            "link": "https://www.youtube.com/watch?v=V1_XjjTjfdg", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "item", 
+            "title": "Goo Goo Dolls - Live From Stagecoach 2025", 
+            "link": "https://www.youtube.com/watch?v=MfCENiKWxh0", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },         
+        {
+            "type": "item", 
+            "title": "Moby - PLAY 25 - Sportpaleis d’Anvers - ARTE Concert", 
+            "link": "https://www.youtube.com/watch?v=xSqL-_RSyJw", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                    
         {
             "type": "plugin", 
             "title": "Concerts Full Show", 
