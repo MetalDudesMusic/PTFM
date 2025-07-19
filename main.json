@@ -130,34 +130,6 @@
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
             "title": "test 1d", 
             "type": "item"
-        },  
-        {
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
-            "link": "http://92.247.236.71:9800/Music%20Video/ACDC%20No%20Bull/", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
-            "title": "Test 2two", 
-            "type": "item"
-        },
-        {
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
-            "link": "https://beta.the-eye.eu/public/Random/mtv/", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
-            "title": "test 3", 
-            "type": "dir"
-        },
-        {
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
-            "link": "https://beta.the-eye.eu/public/Random/mtv", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
-            "title": "test 3a", 
-            "type": "dir"
-        },
-        {
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/soundclout.json", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
-            "title": "Soundcloud still testing", 
-            "type": "dir"
-        }   
+        }  
     ]
 }
