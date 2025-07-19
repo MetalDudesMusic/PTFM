@@ -96,13 +96,13 @@
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/music%20tutorials%20logo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         }, 
-        #{
-            #"type": "dir", 
-            #"title": "Christmas Music Concerts & Movies", 
-            #"link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/refs/heads/main/tunes/masx/masxmenu.json", 
-            #"thumbnail": "https://img.freepik.com/premium-photo/santa-claus-mixing-music-christmas-party-with-elves-dancing_967812-12291.jpg", 
-            #"fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        #},
+        {
+            "type": "dir", 
+            "title": "Christmas Music Concerts & Movies", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/refs/heads/main/tunes/masx/masxmenu.json", 
+            "thumbnail": "https://img.freepik.com/premium-photo/santa-claus-mixing-music-christmas-party-with-elves-dancing_967812-12291.jpg", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
         {
             "type": "item",
             "title": "[COLOR khaki]Clear Cache[/COLOR]",
