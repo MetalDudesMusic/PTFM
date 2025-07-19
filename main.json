@@ -18,21 +18,7 @@
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/liveevents.json", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "dir", 
-            "title": "Concerts", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/concerts", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
         },  
-        {
-            "type": "dir", 
-            "title": "Music Festivals", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/musicfestivals.json", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/musicfestivalslogo.png?raw=true", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },    
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/Artists", 
