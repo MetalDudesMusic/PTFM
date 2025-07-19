@@ -60,21 +60,7 @@
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Bonus%20Movies%20logo.png?raw=true", 
             "title": "free movies", 
             "type": "dir"
-        }, 
-        {
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musicmovies.json", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/musicmovieslogo.png?raw=true", 
-            "title": "Music Movies", 
-            "type": "dir"
-        },             
-        {
-            "type": "dir", 
-            "title": "Bonus Movies", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/bonusmovies", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Bonus%20Movies%20logo.png?raw=true", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        }, 
+        },
         {
             "type": "dir", 
             "title": "Radio", 
