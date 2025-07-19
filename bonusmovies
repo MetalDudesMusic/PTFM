@@ -1,5 +1,47 @@
 {
-    "items": [     
+    "items": [                                
+        {
+            "type": "plugin", 
+            "title": "Top Free Full Length Movies", 
+            "link": "plugin.video.youtube/playlist/PL789B81DCFC1DE7A5", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Bonus%20Movies%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                              
+        {
+            "type": "plugin", 
+            "title": "Full Movies For Free", 
+            "link": "plugin.video.youtube/playlist/PLm9l7EEbJuhwJOPPsCA3HKyRyMwwEjc1t", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Bonus%20Movies%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                              
+        {
+            "type": "plugin", 
+            "title": "4,000 Best Free Movies", 
+            "link": "plugin.video.youtube/playlist/PL30RAv-0lkxHdTcoGGgx5L6eXIHnnrEHC", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Bonus%20Movies%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                              
+        {
+            "type": "plugin", 
+            "title": "Free 1990s movies", 
+            "link": "plugin.video.youtube/playlist/PLIiI4TlOIndegGW2--anxDTaL2LZBPzXg", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Bonus%20Movies%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                              
+        {
+            "type": "plugin", 
+            "title": "Free Full Length Animated Movies", 
+            "link": "plugin.video.youtube/playlist/PLum50h_rWpG78rKyDhOeZPxK3b9STh_fd", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Bonus%20Movies%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },                              
+        {
+            "type": "plugin", 
+            "title": "Film Noir Movies", 
+            "link": "plugin.video.youtube/playlist/PLGKblFQXqJackAEPUfxZoboNlPfRjZwpf", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/Bonus%20Movies%20logo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },   
         {
             "type": "dir", 
             "title": "Youtube Full Movies", 
