@@ -2,6 +2,13 @@
     "items": [
         {
             "fanart": "", 
+            "link": "https://www.youtube.com/watch?v=OQR5JRJHbBQ", 
+            "thumbnail": "https://i.ytimg.com/vi/OQR5JRJHbBQ/maxresdefault.jpg", 
+            "title": "ETimes live feed", 
+            "type": "item"
+        },
+        {
+            "fanart": "", 
             "link": "", 
             "thumbnail": "", 
             "title": "Watch Live: Ozzy Osbourne’s funeral procession in Birmingham, UK", 
@@ -33,6 +40,20 @@
             "link": "https://www.youtube.com/watch?v=c6wT1-p61NQ", 
             "thumbnail": "https://i.ytimg.com/vi/c6wT1-p61NQ/hq720.jpg", 
             "title": "Sky News live feed", 
+            "type": "item"
+        },
+        {
+            "fanart": "", 
+            "link": "https://www.youtube.com/watch?v=OgWgsOzQzYc", 
+            "thumbnail": "https://i.ytimg.com/vi/OgWgsOzQzYc/hq720.jpg", 
+            "title": "Daily Express live feed", 
+            "type": "item"
+        },
+        {
+            "fanart": "", 
+            "link": "https://www.youtube.com/watch?v=C-u4UhyFDoQ", 
+            "thumbnail": "https://i.ytimg.com/vi/C-u4UhyFDoQ/hq720.jpg", 
+            "title": "The Sun live feed", 
             "type": "item"
         }
     ]
