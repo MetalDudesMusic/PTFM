@@ -105,7 +105,7 @@
         },                                                   
         {
             "type": "plugin", 
-            "title": "Play VK Playlist", 
+            "title": "Play VK Playlist 2", 
             "action": "RunScript(special://home/addons/plugin.video.ptfm/resources/lib/plugins/vkplaylist.py)",
             "thumbnail": "https://sun9-83.userapi.com/s/v1/ig2/bPUtsKBEQ7P6DVzN8c-QdnBjMXe-kZzKrAZlETcW85pa2TavX9TU-V2MZtqaJv2dxEo8uDFRxN8mgKTcyAHn6Uej.jpg?quality=95&crop=182,137,691,691&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640&ava=1&cs=100x100",
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
@@ -126,6 +126,7 @@
         }  
     ]
 }
+
 
 
 
