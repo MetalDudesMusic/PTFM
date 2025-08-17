@@ -102,9 +102,10 @@
             "link": "settings", 
             "thumbnail": "", 
             "fanart": ""
-        },{
+        },
+        {
             "type": "dir",
-            "title": "VK Playlists5",
+            "title": "VK Playlists6",
             "plugin": "vkplaylist",
             "params": {
                 "playlists": [
@@ -133,6 +134,7 @@
         }  
     ]
 }
+
 
 
 
