@@ -120,9 +120,9 @@
         },
         {
             "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
-            "link": "https://beta.the-eye.eu/public/Random/mtv/1981.08.01%20-%20MTV%20First%20Four%20Hours%20-%2012am%20Saturday%20August%201st%2C%201981.mp4", 
+            "link": "https://song.link/d/3235346", 
             "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true", 
-            "title": "test 2 mtv", 
+            "title": "new test", 
             "type": "item"
         },
         {
@@ -134,6 +134,7 @@
         }  
     ]
 }
+
 
 
 
