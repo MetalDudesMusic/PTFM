@@ -1,5 +1,12 @@
 {
     "items": [
+        {
+            "type": "item", 
+            "title": "In Me,ory of Cman, Rest in Peace", 
+            "link": "", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/membersplaylistslogo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
         { 
             "type": "dir", 
             "title": "[COLOR khaki]YouTube Search[/COLOR]", 
@@ -134,6 +141,7 @@
         }  
     ]
 }
+
 
 
 
